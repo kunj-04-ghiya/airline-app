@@ -1,0 +1,23 @@
+node_modules/
+dist/
+build/
+# ignore zip files and old extracted frontend folders
+*.zip
+skySwift_airline_reservation_react/
+# common
+node_modules/
+dist/
+build/
+.vite/
+.DS_Store
+*.log
+
+# env secrets
+.env
+airline-backend/.env
+skySwift-react/.env
+
+# OS/editor junk
+Thumbs.db
+.vscode/
+  
