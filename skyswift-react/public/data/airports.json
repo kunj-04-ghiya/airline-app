@@ -1,0 +1,58 @@
+[
+  {"code":"BOM","city":"Mumbai","country":"India","lat":19.0896,"lon":72.8656},
+  {"code":"DEL","city":"Delhi","country":"India","lat":28.5562,"lon":77.1000},
+  {"code":"BLR","city":"Bengaluru","country":"India","lat":13.1986,"lon":77.7066},
+  {"code":"HYD","city":"Hyderabad","country":"India","lat":17.2403,"lon":78.4294},
+  {"code":"MAA","city":"Chennai","country":"India","lat":12.9941,"lon":80.1709},
+  {"code":"CCU","city":"Kolkata","country":"India","lat":22.6547,"lon":88.4467},
+
+  {"code":"JFK","city":"New York","country":"USA","lat":40.6413,"lon":-73.7781},
+  {"code":"EWR","city":"Newark","country":"USA","lat":40.6895,"lon":-74.1745},
+  {"code":"LGA","city":"New York LaGuardia","country":"USA","lat":40.7769,"lon":-73.8740},
+  {"code":"LAX","city":"Los Angeles","country":"USA","lat":33.9416,"lon":-118.4085},
+  {"code":"SFO","city":"San Francisco","country":"USA","lat":37.6213,"lon":-122.3790},
+  {"code":"ORD","city":"Chicago","country":"USA","lat":41.9742,"lon":-87.9073},
+  {"code":"DFW","city":"Dallas-Fort Worth","country":"USA","lat":32.8998,"lon":-97.0403},
+  {"code":"MIA","city":"Miami","country":"USA","lat":25.7959,"lon":-80.2870},
+  {"code":"SEA","city":"Seattle","country":"USA","lat":47.4502,"lon":-122.3088},
+
+  {"code":"LHR","city":"London Heathrow","country":"UK","lat":51.4700,"lon":-0.4543},
+  {"code":"LGW","city":"London Gatwick","country":"UK","lat":51.1537,"lon":-0.1821},
+  {"code":"CDG","city":"Paris Charles de Gaulle","country":"France","lat":49.0097,"lon":2.5479},
+  {"code":"AMS","city":"Amsterdam","country":"Netherlands","lat":52.3105,"lon":4.7683},
+  {"code":"FRA","city":"Frankfurt","country":"Germany","lat":50.0379,"lon":8.5622},
+  {"code":"MAD","city":"Madrid","country":"Spain","lat":40.4722,"lon":-3.5608},
+  {"code":"BCN","city":"Barcelona","country":"Spain","lat":41.2974,"lon":2.0833},
+  {"code":"FCO","city":"Rome Fiumicino","country":"Italy","lat":41.8003,"lon":12.2389},
+  {"code":"MXP","city":"Milan Malpensa","country":"Italy","lat":45.6301,"lon":8.7231},
+  {"code":"IST","city":"Istanbul","country":"Türkiye","lat":41.2753,"lon":28.7519},
+
+  {"code":"DXB","city":"Dubai","country":"UAE","lat":25.2532,"lon":55.3657},
+  {"code":"AUH","city":"Abu Dhabi","country":"UAE","lat":24.4329,"lon":54.6511},
+  {"code":"DOH","city":"Doha","country":"Qatar","lat":25.2747,"lon":51.6081},
+  {"code":"JED","city":"Jeddah","country":"Saudi Arabia","lat":21.6702,"lon":39.1528},
+
+  {"code":"SIN","city":"Singapore","country":"Singapore","lat":1.3644,"lon":103.9915},
+  {"code":"BKK","city":"Bangkok","country":"Thailand","lat":13.6900,"lon":100.7501},
+  {"code":"HKG","city":"Hong Kong","country":"China (HK)","lat":22.3080,"lon":113.9185},
+  {"code":"NRT","city":"Tokyo Narita","country":"Japan","lat":35.7719,"lon":140.3929},
+  {"code":"HND","city":"Tokyo Haneda","country":"Japan","lat":35.5494,"lon":139.7798},
+  {"code":"ICN","city":"Seoul Incheon","country":"South Korea","lat":37.4602,"lon":126.4407},
+  {"code":"KUL","city":"Kuala Lumpur","country":"Malaysia","lat":2.7456,"lon":101.7072},
+  {"code":"CGK","city":"Jakarta","country":"Indonesia","lat":-6.1256,"lon":106.6559},
+
+  {"code":"SYD","city":"Sydney","country":"Australia","lat":-33.9399,"lon":151.1753},
+  {"code":"MEL","city":"Melbourne","country":"Australia","lat":-37.6733,"lon":144.8430},
+  {"code":"AKL","city":"Auckland","country":"New Zealand","lat":-37.0082,"lon":174.7850},
+
+  {"code":"GRU","city":"São Paulo","country":"Brazil","lat":-23.4356,"lon":-46.4731},
+  {"code":"GIG","city":"Rio de Janeiro","country":"Brazil","lat":-22.8101,"lon":-43.2506},
+  {"code":"EZE","city":"Buenos Aires","country":"Argentina","lat":-34.8222,"lon":-58.5358},
+  {"code":"SCL","city":"Santiago","country":"Chile","lat":-33.3929,"lon":-70.7858},
+
+  {"code":"CAI","city":"Cairo","country":"Egypt","lat":30.1120,"lon":31.4000},
+  {"code":"ADD","city":"Addis Ababa","country":"Ethiopia","lat":8.9779,"lon":38.7993},
+  {"code":"LOS","city":"Lagos","country":"Nigeria","lat":6.5774,"lon":3.3212},
+  {"code":"JNB","city":"Johannesburg","country":"South Africa","lat":-26.1337,"lon":28.2420},
+  {"code":"CPT","city":"Cape Town","country":"South Africa","lat":-33.9696,"lon":18.5972}
+]
